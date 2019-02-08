@@ -5,7 +5,7 @@
   "proxies": [
     {
       "path": "/v1",
-      "proxyUrl": "https://www.vivanuncios.com.mx/s-renta-inmuebles"
+      "proxyUrl": "https://www.vivanuncios.com.mx"
     }
 
   ]
